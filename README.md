@@ -12,3 +12,4 @@ Online POS & Inventory Management System for Maidan Branch.
   - Customer & Vendor Payment Ledgers
   - WhatsApp & PDF Bill/Statement Sharing
   - Role-based Access Control (Super Admin, Shop Admin, Cashier)
+

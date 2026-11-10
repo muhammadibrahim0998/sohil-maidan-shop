@@ -1198,6 +1198,3 @@ export function VendorsManagement({ shopId: propShopId }) {
     </div>
   );
 }
-    </div >
-  );
-}
